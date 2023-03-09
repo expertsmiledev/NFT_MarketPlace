@@ -3,6 +3,7 @@
 //
 // When running the script with `hardhat run <script>` you'll find the Hardhat
 // Runtime Environment's members available in the global scope.
+//------------------------check----------------------------//
 const hre = require("hardhat");
 
 async function main() {
